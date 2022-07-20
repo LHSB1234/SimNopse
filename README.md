@@ -7,4 +7,4 @@ Guia de filmes utilizando HTML, CSS, JavaScript
 Link para a demo
 https://codepen.io/LHSB123/pen/wvmJQKv
 
-Utilizando conceitos basicos de HTML e CSS fiz a interface e a estilização, logo apos utilizei o JavaScript e busquei API para obter os dados de filmes, imagens, sinopse e notas.
+Utilizando conceitos basicos de HTML e CSS fiz a interface e a estilização, logo apos utilizei o JavaScript e utilizando a API do The Movie Database para obter os dados de filmes, imagens, sinopse e notas.
